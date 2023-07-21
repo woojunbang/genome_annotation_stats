@@ -5,6 +5,8 @@ Yon can use command line as follows.
 
 python genome_annotation_stats.py --genome genome.fasta --gff3 genome.gff3 --amino_acids aa.fasta --cds cds.fasta
 
+Before use it, you have to install biopython
+
 then output report come out as follows.
 
 Genome Size: .. bases
